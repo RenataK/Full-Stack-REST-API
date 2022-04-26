@@ -6,3 +6,6 @@
  Used `npx create-react-app client` to create React project in a folder named client.Copied the REST API Express application from unit 9 project into the api folder.Installed dependencies for api folder with `npm install`
  Added CORS support to the REST API with `npm install cors`
 
+ imported styles into index.js as well as moved the styles folder into the src folder
+ 
+
